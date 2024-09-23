@@ -2,3 +2,6 @@
 *.aux
 *.log
 *.synctex.gz
+
+# Documents
+default_document.pdf
